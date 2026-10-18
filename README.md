@@ -8,6 +8,14 @@ An unofficial rebuild of **SHsuperCM**'s original work, kept running on current 
 
 Loader: Fabric.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric |
+| 26.2 | Fabric |
+| 26.1.2, 26.1.1, 26.1 | Fabric |
+
 ## Source
 
 The licence allows it, so the port source is available on request: ask at **9minecraft.net@gmail.com** and it will be sent over.
