@@ -14,7 +14,7 @@ Loader: Fabric.
 |---|---|
 | 26.3 | Fabric |
 | 26.2 | Fabric |
-| 26.1.2, 26.1.1, 26.1 | Fabric |
+| 26.1.2 | Fabric |
 
 ## Source
 
